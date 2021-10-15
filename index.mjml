@@ -1,0 +1,80 @@
+<mjml>
+  <mj-body background-color="#F4F4F4" color="#55575d" font-family="Arial, sans-serif">
+    <mj-section background-color="#fcfdfb" background-repeat="repeat" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding="10px 25px" src="https://i.postimg.cc/vB1NJ9cP/craft-logo.png" target="_blank" width="214px"></mj-image>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="15px" padding-top="0px" padding="10px 25px">
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://i.postimg.cc/nzd19VQC/craft-group.jpg" target="_blank" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fcfdfb" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding-bottom="10px" padding-top="10px" padding="10px 25px">
+          <p style="line-height: 30px; margin: 10px 0; text-align: center; color:#151e23; font-size:30p; font-family:Georgia,Helvetica,Arial,sans-serif">New classes at Woven Craft!</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fcfdfb" background-repeat="repeat" padding-bottom="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="0px" padding="10px 25px" src="https://i.postimg.cc/W4w8jwNm/craft-house.jpg" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
+          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Georgia,Helvetica,Arial,sans-serif"><b>Partner Courses</b></p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Georgia,Helvetica,Arial,sans-serif; color:#354552">Help expand your child's creativity and partnership by pairing them up with a friend to build a project! Whether it's a small house or window display, learning to harness their creative minds and work together will keep them busy for hours! </p>
+         
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fcfdfb" background-repeat="repeat" direction="rtl" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="20px" padding="10px 25px" src="https://i.postimg.cc/x1HgpSB4/craft-cactus.jpg" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
+          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Georgia,Helvetica,Arial,sans-serif"><b>Paper Mache and Construction</b></p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Georgia,Helvetica,Arial,sans-serif; color:#354552">This offering is geared towards the older children that want to create something a bit bigger and difficult. Alligators, baskets, masks, trees, giraffes - let's make it all!</p>
+          
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fcfdfb" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="20px" padding="10px 25px" src="https://i.postimg.cc/Z5kxdM0F/craft-help.jpg" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
+          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Georgia,Helvetica,Arial,sans-serif"><b>One-on-One</b></p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Georgia,Helvetica,Arial,sans-serif; color:#354552">Sometimes the pace of life leaves us feeling like we're missing precious moments. Let us handle the headaches of gathering materials, outlining a project and cleaning up all the mess! Just come in and engage with your child while nurturing that connection and creativity. Take a load off and have some fun!</p>
+          
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fcfdfb" background-repeat="repeat" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-button align="center" background-color="
+#1a335a" border-radius="3px" color="#ffffff" font-family="Georgia, Helvetica, Arial, sans-serif" font-size="22px" font-weight="bold" inner-padding="10px 25px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle">Learn More and Sign Up!</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fcfdfb" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://i.postimg.cc/vmshpNsH/craft-tools.jpg" target="_blank" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fcfdfb" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        
+        <mj-social align="center">
+          <mj-social-element name="facebook"></mj-social-element>
+          <mj-social-element name="pinterest"></mj-social-element>
+          <mj-social-element name="instagram"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
